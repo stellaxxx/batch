@@ -13,5 +13,4 @@ import org.springframework.stereotype.Component;
 @Documented
 @Component
 public @interface BatchProcessor {
-
 }
